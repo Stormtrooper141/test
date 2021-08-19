@@ -9,4 +9,4 @@
 check
 check2
 
-ветка newBranch
+ветка newBranch changed
